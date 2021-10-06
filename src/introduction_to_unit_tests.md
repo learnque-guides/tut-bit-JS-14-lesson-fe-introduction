@@ -6,6 +6,8 @@
 Some test examples that we will use in our tests:
 
 ```js
+'use strict';
+
 const car = {
     name: "Skoda",
     model: "Octavia",
@@ -20,6 +22,8 @@ export { car };
 ```
 
 ```js
+'use strict';
+
 import { car } from '../model';
 
 describe('my car', () => {
@@ -41,6 +45,8 @@ describe('my car', () => {
 ---
 
 ```js
+'use strict';
+
 import $ from 'jquery';
 
 function parseJSON(user) {
@@ -62,6 +68,8 @@ export { fetchUser };
 ```
 
 ```js
+'use strict';
+
 jest.mock('jquery');
 
 import $ from 'jquery';
@@ -99,6 +107,8 @@ it('calls the callback when $.ajax requests are finished', () => {
 ---
 
 ```js
+'use strict';
+
 import $ from 'jquery';
 import { fetchUser } from './fetchUser';
 
@@ -115,10 +125,6 @@ export default initDisplayUserOnClick;
 ```
 
 ```js
-// Copyright 2004-present Facebook. All Rights Reserved.
-
-/* global document */
-
 'use strict';
 
 jest.mock('../fetchUser.js');
