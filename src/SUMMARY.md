@@ -11,4 +11,5 @@
 - [Project with webpack](./project_webpack.md)
 - [Exercise 1](./exercise_1.md)
 - [Exercise 2](./exercise_2.md)
-- [Let's play around with bootsrap](lets_play_around_with_bootsrap.md)
+- [Introduction to unit tests](./introduction_to_unit_tests.md)
+- [Let's play around with bootstrap](lets_play_around_with_bootsrap.md)

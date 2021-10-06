@@ -1,6 +1,6 @@
-# Let's play around with bootsrap
+# Let's play around with bootstrap
 
-Let's set up bootsrap quick start from [template](https://github.com/viktornar/bootsrap-quick-start/archive/refs/heads/main.zip)
+Let's set up bootstrap quick start from [template](https://github.com/viktornar/bootsrap-quick-start/archive/refs/heads/main.zip)
 
 For the most straightforward development, open two Terminal tabs to execute `npm run server` and `npm run watch` at the same time.
 
