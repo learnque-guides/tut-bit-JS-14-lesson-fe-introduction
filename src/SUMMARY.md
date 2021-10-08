@@ -12,4 +12,5 @@
 - [Exercise 1](./exercise_1.md)
 - [Exercise 2](./exercise_2.md)
 - [Introduction to unit tests](./introduction_to_unit_tests.md)
-- [Let's play around with bootstrap](lets_play_around_with_bootsrap.md)
+- [Introduction to JavaScript workers](./introduction_to_webworkers.md)
+- [Introduction to Service workers](./introduction_to_serviceworkers.md)
