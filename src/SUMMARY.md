@@ -3,6 +3,7 @@
 - [JS modules](./modules.md)
 - [JS modules implemantation by using RequireJS](./require_js.md)
 - [JS modules by using native approach (import/export)](./import_export.md)
+- [Quiz](./quiz.md)
 - [Introduction to TypeScript](./intro_to_typescript.md)
 - [Main points about TypeScripts](./main_points_about_typescript.md)
 - [Example of TypeScript](./examples_of_typescript.md)
