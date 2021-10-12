@@ -38,7 +38,7 @@ import shout from './lib.mjs';
 //   
 ```
 
-On the web, you can tell browsers to treat a <script> element as a module by setting the type attribute to module.
+On the web, you can tell browsers to treat a `<script>` element as a module by setting the type attribute to module.
 
 ```html
 <script type="module" src="main.mjs"></script>
